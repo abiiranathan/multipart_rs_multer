@@ -1,0 +1,7 @@
+main
+target
+*.a
+*.o
+*.so
+a.out
+*.h
